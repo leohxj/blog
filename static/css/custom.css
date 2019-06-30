@@ -1,0 +1,15 @@
+.header .logo-wrapper {
+  color: #fff;
+  font-weight: bolder;
+  background-color: #bf5a4c;
+  margin-top: 15px;
+  padding: 0;
+}
+
+.header .logo-wrapper .logo {
+  font-family: "Open Sans", arial, sans-serif;
+  font-size: 20px;
+  color: #fff;
+  padding: 0 1rem;
+}
+
