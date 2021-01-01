@@ -10,7 +10,7 @@ theme = "jane"
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-googleAnalytics = "UA-42849828-1"      # UA-XXXXXXXX-X
+googleAnalytics = "G-X03GCCD846"      # 自定义了 _internal/google_analytics_async.html, 使用 gtags.js 方式
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 # language support # en / zh-cn / other... translations present in i18n/
