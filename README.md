@@ -6,3 +6,5 @@
 
 ## 更新主题
 `git clone https://github.com/xianmin/hugo-theme-jane.git --depth=1 themes/jane`
+
+?
