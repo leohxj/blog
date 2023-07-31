@@ -64,11 +64,14 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   customCSS = ['custom.css']            # if ['custom.css'], load '/static/css/custom.css' file
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
+  customFooter = '<div><a class="theme-link" href="https://beian.miit.gov.cn/" target="_blank">苏ICP备2021004874号-1</a></div>'
+
   [params.social]                                         # 社交链接
     a-email = "mailto:leohxj@gmail.com"
     g-github = "https://github.com/leohxj"
     c-twitter = "https://twitter.com/leohxj"
     j-douban = "https://www.douban.com/people/leohxj"
+  # customFooter = "京ICP备10000000号-1"
 
   [params.commentCount.disqus] # show counts of comments for Disqus
   enable = false
